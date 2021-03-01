@@ -1,0 +1,12 @@
+.timer{
+    width: 60px;
+}
+
+.question{
+    width: 100%;
+}
+
+.opt{
+    display: block;
+    width: 100%;
+}
